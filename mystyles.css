@@ -1,0 +1,135 @@
+@media only screen  and (max-width:480px){
+	.mat h1 {font-size: 23px!important;}
+	.mat h5 {font-size: 13px!important;}
+	.love h1 {font-size: 25px!important;}
+	.love {margin:auto!important; padding:0px!important;}
+		.love p{font-size: 13px!important;padding-top: 6px!important;}
+		.matter h1 {font-size: 13px;}
+}
+
+
+ @media only screen and (min-width:320px) and (max-width:767px){
+	.logo {    width: 50%!important;
+    justify-content: center;}
+	.love {  min-height: 400px;
+     justify-content: center;
+    align-items: center;
+    display: flex;
+    display: flex;
+    align-items: center;
+    height: 100px;}
+	.mainhead {height:auto; min-height:500px;}
+	.menus {display:none;}
+	.my {font-size: 13px;}
+	.all {display: block;}
+	.listed {margin:auto;}
+	.two {margin:auto;}
+	.event {margin:auto;}
+	.pics {display: block;}
+	.firstpic {width:80%;margin-top: 25px;margin: auto;}
+	.freelance p {line-height:22px!important;color: #2f3031; font-size:16px;}
+	.secondpic {width:80%;margin-top: 25px;margin: auto;margin-top: 15px;}
+	.thiredpic {width:80%;margin-top: 25px;margin: auto;margin-top: 15px;}
+	.matter h1 {font-size: 18px;}
+	.matter h6 {font-size: 11px;}
+	.grphy {display:block;margin-top: 40px;}
+	.me {display: block; padding-left:0px; margin:auto; width:80%;}
+	.ills {display: block; margin:auto; width:80%!important;}
+	.til {height:auto;}
+	.profil {padding-top: 15px; margin:auto;}
+	.oil{display: flex;}
+	.jio {padding-top: 50px;
+
+display: flex;}
+.fot {padding-bottom: 50px;}
+	.boy {padding-bottom: 20px;}
+ .freelance {width:100%;padding-bottom: 30px;}
+ .mat {padding-top: 30px}
+	 .mat h1 {font-size: 30px;}
+	 .mat h5 {
+	 padding-top: 15px;
+	 font-size: 13px;}
+	 .see {height: 90px;}
+	 .social {display:block;padding-bottom: 10px;}
+	 .lef {width:100%;padding-top: 15px;font-size: 13px;}
+	 	 .rig {width:100%;justify-content: center;}
+		 .mainhead {height:auto!important;}
+		 .wed p {font-size: 14px;line-height: 20px!important;}
+		 .bar {width:75%;}
+		 .was {justify-content:center;}
+		 .wed h2{font-size:16px;}
+		    .bar {width: 50%!important;
+    justify-content: flex-end;
+    align-items: center;
+ display: flex; margin-right:15px!important;}
+ 	 .log {width:130px!important;margin-left: 10px!important;}
+ 
+}
+@media only screen and (min-width:769px) and (max-width:887px){
+	
+	.wed h2 {font-size:15px;}
+	
+	.menus ul li a {padding: 35px 5px!important;}
+}
+@media only screen and (min-width:769px) and (max-width:820px){
+	
+	.wed h2 {font-size:13px;}
+	
+.wed p {font-size: 12px;}
+}
+
+
+ @media only screen and (min-width:769px) and (max-width:995px) {
+	 .log {width:130px!important;}
+	 .logo {width:20%!important;}
+	 	.oil{display: flex!important;}
+		.grphy {display:block!important;}
+		.me {width:100%!important; padding-bottom:50px;}
+				.ills {width:80%!important; margin:auto!important;}
+			.profession {padding:auto;}
+			.til {height:30px;}
+			.freelance p {font-size:17px;}
+	 .profession p {font-size:17px;}
+	 .firstpic  p {font-size:13px;}
+	 .secondpic p {font-size:13px;}
+	 .thiredpic p {font-size:13px;}
+	 .bar {display:none;}
+	 .menus ul li a:hover {border:1px solid!important; padding:5px 8px!important;}
+	  .was {width:100%!important;}
+	
+	 .menus {width:70%!important;}
+	 
+	 .menus  {width: 70%!important;
+    justify-content: center!important;
+    align-items: center!important;
+    display: contents!important;}
+	 
+ }
+  @media only screen and (min-width:769px) and (max-width:799px){
+	
+		
+	 
+ }
+ @media only screen and (min-width:769px) and (max-width:970px){
+	
+	 
+ }
+ 
+ 
+ @media only screen and (min-width:995px) and (max-width:1330px){
+	 
+	 .profil {width: 230px!important;}
+	 .bar {display:none!important}
+
+	 
+ }
+ @media only screen and (min-width:1330px) and (max-width:1500px){
+	  .bar {display:none!important}
+ }
+ @media only screen and (min-width:769px) and (max-width:793px) {
+	 .menus {width: 70%!important;
+    justify-content: center!important;
+    align-items: center!important;
+	 display: contents!important}
+	 
+ }

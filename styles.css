@@ -1,0 +1,192 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;	
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.mainhead {
+	width:100%; height:100%;
+	background-image:url(images/banner1-pg1.jpg);
+	background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+}
+.was {display:flex;}
+.logo {
+	align-items: center;
+justify-content: center;
+display: flex;
+width: 25%;
+height: 100px;
+
+}
+.header {display: flex;}
+.bok {color:#fe8443;}
+
+.face.i:hover {background-color:#fe8443;color:white;}
+
+
+.face {background-color:transparent; border:1px solid; border-color:#fe8443; width:40px; height:40px; border-radius:50%;justify-content: center;
+align-items: center;
+display: flex;}
+	.menus {width:70%;justify-content: flex-end;
+	display: flex;}
+.menus ul li a:hover {border:1px solid; padding:10px 13px;}
+.menus ul li {justify-content:center; align-items:center; display: inline-flex;  }
+.menus ul li a{ padding:30px 13px;color:#989da1; list-style:none;text-decoration: none;}
+.love {text-align: center;
+font-size: 25px;
+margin: auto;
+min-height: 700px;
+justify-content: center;
+align-items: center;
+display: flex}
+.love h1 {color:#f58447}
+.love p {color:white;font-style: italic;}
+.my {text-align:center;}
+.icon p{
+
+justify-content: center;
+align-items: center;
+display: flex;
+}
+.twitter {
+	display:flex;
+	padding-top: 20px;
+}
+.wed {
+padding-left: 13px;
+
+}
+.oil {display: flex;overflow-x: auto;}
+
+.wed h2  {color:#6b6b6b; font-size:18px;}
+.wed p {font-size:15px;line-height: 25px;}
+.listed {margin-right:50px;}
+.ico p{
+
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.all {width:100%; height:auto;justify-content: center;
+
+display: flex; padding-top:30px;}
+.Second {width:100%; height:auto;padding: 40px;}
+.event {margin-top: 20px; display:flex;}
+.wed p{color: #252222;padding-top: 15px;}
+.sym{font-size:30px; color:#f58447;}
+.birth {display:flex;}
+.my {padding: 15px; color:#454545;}
+
+.wedding {display:flex;}
+
+.two {margin-right: 50px;}
+
+.pics {width:100%; justify-content: center;
+
+align-items: center;
+
+display: flex;}
+.fullview {width:100%; height:auto; background-color:#282828;padding-bottom: 50px;}
+.fullview h1 {text-align:center; color:#9fa3a6;}
+.fullview h6 {text-align:center; color:#9fa3a6;}
+.firstpic {
+background-color:white; width:25%;padding: 11px;padding-bottom: 15px;margin-right: 50px;}
+.firstpic h4 {text-align:center; padding-top:21px;}
+.firstpic p {text-align:center;padding-top: 15px;}
+.pic {width:100%;}
+.secondpic {
+ background-color:white; width:25%; padding: 11px;padding-bottom: 15px;margin-right: 50px;}
+.secondpic h4 {text-align:center; padding-top:21px;}
+.secondpic p {text-align:center;padding-top: 15px;}
+.thiredpic{
+ background-color:white;width:25%; background-position:center;padding: 11px;padding-bottom: 15px; ;
+}
+.thiredpic h4 {text-align:center; padding-top:21px;}
+.thiredpic p {text-align:center;padding-top: 15px;}
+.matter {padding: 40px;}
+.matter h6{padding: 25px;font-size: 13px;}
+
+
+.titlle {width:100%; height:auto; padding-bottom: 60px;}
+.grphy {width:100%; height:auto; display:flex;margin-top: 100px; }
+.me {width:60%; height:auto;display:flex;align-items:center;padding-left: 80px;}
+.ills {width:40%; height:auto;margin-left: 15px;}
+
+.lit{font-size: 20px;
+display: flex;
+height: 36px;
+}
+.til{font-size: 20px;
+height: 50px;color:#3c3e43}
+.boy {}
+.boy p{justify-content: center;}
+
+.profil {width: 260px;}
+
+.freelance p {font-size: 16px;
+
+line-height: 27px;color: #2f3031;padding-left: 12px;}
+.profession p {font-size:15px;color:#2f3031;}
+.profession {padding-top: 8px;
+
+line-height: 27px;}
+
+
+.pro {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 15px;
+    color: #23252d;
+}
+.progressmain {line-height:45px;}
+
+.fot {width:100%; height:auto; background-color:#282828;padding-bottom: 120px;}
+.mat {text-align: center;
+
+padding: 50px; color:#9fa3a6;padding-top: 90px;}
+.mat h1 {font-size: 43px;}
+.mat h5 {padding-top: 40px; color:#9fa3a6;font-size: 14px;}
+.car {width:100%; height:auto; background-color:#282828;}
+.full {width: 333px;}
+.jio {padding-top:115px;display: flex; overflow-x:auto; margin:auto;}
+.see {width:100%; height:200px; background-color:#424242; text-align:center; justify-content:center; display:flex; align-items:center;}
+.btn {padding: 15px 20px 15px 20px;
+
+background-color: #424242;
+
+color: #9fa3a6;
+border: 1px solid;
+border-color: #9fa3a6;}
+.btn:hover {background-color:#fe8443; color:white; border:1px dotted;}
+.social {width:100%; height:150px; background-color:#232323; display:flex;}
+.lef{
+width: 50%;
+color:#828282;
+display: flex;
+justify-content: center;
+align-items: end;
+margin: auto;}
+.rig {
+display: flex;padding-top: 57px;width: 50%; justify-content:flex-end;}
+.media {background-color:none; border:1px solid; border-color:#fe8443; width:40px; height:40px;justify-content: center;
+align-items: center;
+display: flex;	}
+
+.mun {color:white;    font-size: 35px;} 
+.mov {
+ 
+  
+  transition: transform .2s;
+ 
+  
+}
+
+.mov:hover {
+
+  transform: scale(1.1); 
+}
